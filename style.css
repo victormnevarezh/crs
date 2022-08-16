@@ -11,6 +11,18 @@ body{
     justify-content: center;;
 }
 
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+  }
+
 .child {
     margin-top: 1em;
 
